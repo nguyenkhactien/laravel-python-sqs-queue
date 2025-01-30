@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Log files
+*.log
+*.out
+*.err
+
+# Debugger stuff
+*.pdb
+
+# Environment variables
+.env
+*.env
+
+# AWS credentials
+.aws/
+
+# Compiled files
+*.egg-info/
+dist/
+build/
+
+# Testing / coverage
+.coverage
+.cache/
+nosetests.xml
+pytest_cache/
